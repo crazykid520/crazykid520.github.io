@@ -3,9 +3,16 @@ body {
 }
 p{
     text-indent: 2em;
+    padding-right: 2em;
+}
+h2{
+    padding-left: 2em;
+    padding-right: 2em;
 }
 .one{
     border:solid brown;
+    padding-left: 2em;
+    padding-right: 2em;
 }
 
 nav > ul {
